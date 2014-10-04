@@ -9,4 +9,5 @@ post about polymer
 4. [Polymer Issues](https://groups.google.com/forum/#!msg/polymer-dev/zUseH6M0eTI/SXIp9eP-n8AJ)
 5. [Polymer使用经验分享](http://www.topthink.com/topic/2673.html)
 6. [google web components](https://github.com/GoogleWebComponents)
-7. [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
+7. [Custom Elements](http://customelements.io/)
+8. [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
