@@ -13,3 +13,4 @@ post about polymer
 8. [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
 9. [Building single page apps using web components](https://www.polymer-project.org/articles/spa.html)
 10. [Polymer Template](http://www.cnblogs.com/ywb15ba/p/polymer_template.html)
+11. [pager-item 可以用a哦](https://www.polymer-project.org/docs/elements/paper-elements.html#paper-item)
